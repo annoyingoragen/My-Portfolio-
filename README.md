@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=800px height=1200px src="https://raw.githubusercontent.com/annoyingoragen/My-Portfolio-/main/client/Web%20capture_7-1-2023_0828_fatimaaliportfolio.web.app.jpeg" alt="Project logo"></a>
+ <img width=800px height=1600px src="https://raw.githubusercontent.com/annoyingoragen/My-Portfolio-/main/client/Web%20capture_7-1-2023_0828_fatimaaliportfolio.web.app.jpeg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Portfolio</h3>
